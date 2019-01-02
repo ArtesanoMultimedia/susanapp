@@ -2,7 +2,7 @@
 
 ## Briefing
 
-Desarrollamos el Briefing en [este archivo](./briefing/briefing.md).
+Desarrollamos el Briefing en [este archivo](../../briefing/briefing.md).
 
 ## Cuestiones técnicas
 
