@@ -1,2 +1,13 @@
 # susanapp
-Código fuente de la aplicación web del proyecto "susanapp"
+
+## Briefing
+
+Desarrollamos el Briefing en [este archivo](briefing/briefing.md).
+
+## Cuestiones técnicas
+
+Instalar módulos de node con
+
+````
+  npm install
+````
