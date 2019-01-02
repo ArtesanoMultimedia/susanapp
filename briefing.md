@@ -13,14 +13,7 @@ Instagram:
 
 Youtube:
 
-Persona de contacto:
-
-Teléfono de contacto:
-
 E-mail de contacto:
-
-Horario disponible:
-
 
 ## TIPO DE PROYECTO
 
