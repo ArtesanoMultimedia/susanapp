@@ -1,0 +1,22 @@
+{
+  "name": "susanapp",
+  "version": "1.0.0",
+  "description": "Código fuente de la aplicación web del proyecto \"susanapp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtesanoMultimedia/susanapp.git"
+  },
+  "author": "Carlos Rodríguez López - ArtesanoMultimedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtesanoMultimedia/susanapp/issues"
+  },
+  "homepage": "https://github.com/ArtesanoMultimedia/susanapp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
